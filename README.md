@@ -1,9 +1,9 @@
 # 자산 관리 시스템 
 ## Architecture
-![Final_project drawio](https://github.com/cs-devops-bootcamp/devops-04-Final-Team9/assets/86557754/00afe77e-d1a1-4542-9b5b-8b5840b82786)
+![249314299-00afe77e-d1a1-4542-9b5b-8b5840b82786](https://github.com/LYQook/devops-04-FinalProject/assets/126463472/690ab214-e2bd-4955-9f69-0200f38a1ad1)
 
 ## Observability, Monitoring
-![image](https://github.com/cs-devops-bootcamp/devops-04-Final-Team9/assets/126463472/7498e4ee-ef46-4c3c-8321-5a044d3caaea)
+![249668688-7498e4ee-ef46-4c3c-8321-5a044d3caaea](https://github.com/LYQook/devops-04-FinalProject/assets/126463472/8d655b19-0738-4fa3-bc4e-f0958f01ec90)
 
 ## Environment
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/><img src="https://img.shields.io/badge/GithubActions-2088FF?style=for-the-badge&logo=GithubActions&logoColor=white"/><img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"/><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"/><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white"/><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white"/><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white"/><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
